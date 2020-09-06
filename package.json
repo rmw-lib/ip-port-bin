@@ -12,7 +12,7 @@
     "/lib"
   ],
   "dependencies": {
-    "@rmw/zipint": "^0.0.4",
+    "@rmw/zipint": "^0.0.6",
     "ipaddr.js": "^2.0.0"
   },
   "devDependencies": {
